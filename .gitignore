@@ -1,0 +1,45 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+dist/
+.angular/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Java
+target/
+*.class
+*.jar
+*.war
+*.ear
+.mvn/
+mvnw
+mvnw.cmd
+
+# Spring Boot
+*.log
+*.gz
+
+# Database
+*.db
+
+# Environment
+.env
+.env.local
+
+# Docker
+*.pid
+
+# Keycloak installation (keep only configuration)
+keycloak-23.0.0/
+keycloak-*.zip
+
+# PostgreSQL data
+postgres_data/
